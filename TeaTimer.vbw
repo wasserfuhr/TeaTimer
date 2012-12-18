@@ -1,0 +1,4 @@
+frmOptionFrame = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmHowLong = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSystray = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+systrayModul = 0, 0, 0, 0, C
